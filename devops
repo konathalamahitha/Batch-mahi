@@ -1,3 +1,17 @@
+NEW TELUGU 3.
+
+GIT:
+
+git add file1  === (workspace to staging)
+
+git reset head file1 === (staging to workspace )
+
+git commit -m "label" file1 --- singile file not mention the file name  ==(staging to local)
+
+git reset --soft cid == (local to staging)
+
+
+====================
 delete file == rm -rf file1
 
 local repo to workspace will move the files == but conditions apply 
@@ -13,6 +27,8 @@ git commit -m "label" modified-file-name  (workspace to local)
 
 gir reset --hard cid ()  == (to delete commit and data) 
 
+
+===================
 
 git hub create one repo == clone the local repo 
 repo name directory created == open the directory 
