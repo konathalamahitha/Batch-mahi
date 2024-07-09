@@ -14,3 +14,23 @@ git commit -m "label" modified-file-name  (workspace to local)
 gir reset --hard cid ()  == (to delete commit and data) 
 
 
+git hub create one repo == clone the local repo 
+repo name directory created == open the directory 
+repo to local repo == clone
+
+
+
+mahi1997K   ==== password git hub
+
+
+git clone https://github.com/konathalamahitha/Batch-mahi.git
+
+ls
+cd Batch79
+ls
+touch add file1
+git status
+git commit -m "file1"
+git status
+git log 
+git push
